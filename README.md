@@ -3,8 +3,8 @@
 ## I'm a student, developer, and tech enthusiast !!
 
 - 🕴 Looking for internships
-- 🌱 I’m currently learning blockchain development and expermimenting with chainlink.
-- 👯 I’m open to collaborate with other content creators
+- 🌱 I’m currently learning blockchain development and experimenting with chainlink.
+- 👯 I’m open to collaborations on any projects 
 - 🥅 2022 Goals: Write more blogs on my [medium](https://medium.com/@mihirmulay3000)
 - ⚡ Fun fact: I love to listen to podcasts and watch sci-fi series on netflix
 
